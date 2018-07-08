@@ -12,5 +12,5 @@ Code Project - Same folder structure as a Normal UE4 Project, just without the b
 
 You can edit the base files located at ..\ProjectSetupTool\SetupFiles
 
-How To Download:
+
 How To Download: You can either pull the source code from the Master Branch and run it from Visual Studios OR you can just download the .exe and needed files from the Project Branch (recommended).
